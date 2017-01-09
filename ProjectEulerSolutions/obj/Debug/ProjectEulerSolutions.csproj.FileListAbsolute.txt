@@ -1,0 +1,9 @@
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\bin\Debug\ProjectEulerSolutions.exe.config
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\bin\Debug\ProjectEulerSolutions.exe
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\bin\Debug\ProjectEulerSolutions.pdb
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.csprojResolveAssemblyReference.cache
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.Form1.resources
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.Properties.Resources.resources
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.csproj.GenerateResource.Cache
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.exe
+F:\Programming\Euler\ProjectEulerSolutions\ProjectEulerSolutions\obj\Debug\ProjectEulerSolutions.pdb
